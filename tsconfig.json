@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+  "target": "ES2021",
+    "module": "commonJs",
+    "moduleResolution": "node",
+    "rootDir": "./rsc",
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "removeComments": true,
+    "noImplicitAny": true,
+    "noUnusedLocals": true,
+    "skipLibCheck": true
+  }
+}
